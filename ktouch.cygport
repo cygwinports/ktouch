@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="ktouch"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="Text"
+SUMMARY="KDE touch typing trainer"
+DESCRIPTION="Part of the KDE education suite"
+
+PATCH_URI="4.10.5-qml-module.patch"
