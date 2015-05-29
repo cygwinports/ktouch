@@ -7,4 +7,4 @@ CATEGORY="Text"
 SUMMARY="KDE touch typing trainer"
 DESCRIPTION="Part of the KDE education suite"
 
-REQUIRES="kqtquickcharts"
+REQUIRES="kde-runtime kqtquickcharts"
