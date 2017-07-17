@@ -1,10 +1,10 @@
-inherit kde4
+inherit kf5
 
 NAME="ktouch"
-VERSION=16.08.3
+VERSION=17.04.3
 RELEASE=1
 CATEGORY="Text"
 SUMMARY="KDE touch typing trainer"
 DESCRIPTION="Part of the KDE education suite"
 
-REQUIRES="kde-runtime kqtquickcharts"
+REQUIRES="kqtquickcharts"
